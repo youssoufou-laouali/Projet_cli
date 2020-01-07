@@ -1,4 +1,4 @@
-1. cd ~
+1. cd ~ .
 2. mkdir cli_tmp
 touch cli_tmp/je_suis_dans_tmp.txt
 
