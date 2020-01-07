@@ -1,9 +1,13 @@
 cd ~
 
  mkdir cli_tmp
+ 
 touch cli_tmp/je_suis_dans_tmp.txt
+
 cd cli_tmp
+
 touch in_cli_tmp.txt
+
 mkdir in_cli_tmp
 rm -r je_suis_dans_tmp_txt
 cd ..
