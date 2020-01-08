@@ -1,6 +1,7 @@
+EXERCICE 1
 cd ~
 
-mkdir cli_tmp
+1. mkdir cli_tmp
 
 touch cli_tmp/je_suis_dans_tmp.txt
 
