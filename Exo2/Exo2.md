@@ -1,3 +1,5 @@
+#Exo2: 
+
 pwd
 
 ls
@@ -24,4 +26,4 @@ cat cuisine.txt
 
 cd ..
 
-ls -alt
+ls -al
