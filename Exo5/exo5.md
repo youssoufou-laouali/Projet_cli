@@ -2,7 +2,7 @@ pwd
 
 mkdir ma_class
 
-cd ma_class
+cd ma_class ** personne te la demander, par consequant le fichier mes_camarades.txt est dans le repertoire ma_class**
 
 touch mes_camarades.txt
 
