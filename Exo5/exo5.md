@@ -1,3 +1,4 @@
+
 pwd
 
 mkdir ma_class
@@ -19,3 +20,5 @@ rm -R .surveillant
 cd ..
 
 rm -r ma_class
+
+# Ou sont les exercies 6, 7 et 8 ??????????????
